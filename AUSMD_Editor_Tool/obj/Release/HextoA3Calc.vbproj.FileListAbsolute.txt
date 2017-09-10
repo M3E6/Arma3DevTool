@@ -1,0 +1,15 @@
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calc.vbproj.GenerateResource.Cache
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\bin\Release\HextoA3Calculator.exe.config
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\bin\Release\HextoA3Calculator.exe.manifest
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\bin\Release\HextoA3Calculator.application
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\bin\Release\HextoA3Calculator.exe
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\bin\Release\HextoA3Calculator.pdb
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\bin\Release\HextoA3Calculator.xml
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calc.Form1.resources
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calc.Resources.resources
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calculator.exe.manifest
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calculator.application
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calculator.exe
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calculator.xml
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calculator.pdb
+C:\Users\austinXmedic\documents\visual studio 2013\Projects\HexadecimalToA3ColorCodeCalculator\HexadecimalToA3ColorCodeCalculator\obj\Release\HextoA3Calc.vbprojResolveAssemblyReference.cache

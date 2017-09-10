@@ -1,0 +1,488 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0597CF3-FBFD-4B0A-91BF-4D035DEC15B7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>arma3EditingTool.My.MyApplication</StartupObject>
+    <RootNamespace>arma3EditingTool</RootNamespace>
+    <AssemblyName>Arma 3 Editing Tool</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>true</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <MinimumRequiredVersion>1.3.0.0</MinimumRequiredVersion>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>2.2.0.0</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>..\..\..\..\..\Desktop\VB Projects\AUSMD_Editing_Tool\</OutputPath>
+    <DocumentationFile>
+    </DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>43924F208EFA9CABDE2F7A2CAB77AEADBC892DD9</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>HexadecimalToA3ColorCodeCalculator_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>1421531072_175605.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="arma3scriptgen.My.Resources" />
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutAUSMDEditing.Designer.vb">
+      <DependentUpon>AboutAUSMDEditing.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AboutAUSMDEditing.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cfgFunctions.Designer.vb">
+      <DependentUpon>cfgFunctions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="cfgFunctions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="configBuilder.Designer.vb">
+      <DependentUpon>configBuilder.vb</DependentUpon>
+    </Compile>
+    <Compile Include="configBuilder.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="debrief_descript.Designer.vb">
+      <DependentUpon>debrief_descript.vb</DependentUpon>
+    </Compile>
+    <Compile Include="debrief_descript.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="defineSubpath.Designer.vb">
+      <DependentUpon>defineSubpath.vb</DependentUpon>
+    </Compile>
+    <Compile Include="defineSubpath.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="defineSubpath2.Designer.vb">
+      <DependentUpon>defineSubpath2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="defineSubpath2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="descriptionEXTCreator.Designer.vb">
+      <DependentUpon>descriptionEXTCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="descriptionEXTCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FancyText.Designer.vb">
+      <DependentUpon>FancyText.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FancyText.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fileBrowser.Designer.vb">
+      <DependentUpon>fileBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fileBrowser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fileInfoCreator.Designer.vb">
+      <DependentUpon>fileInfoCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fileInfoCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAddActionCreator.Designer.vb">
+      <DependentUpon>FormAddActionCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAddActionCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBISMP.Designer.vb">
+      <DependentUpon>FormBISMP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBISMP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormInitSQF.Designer.vb">
+      <DependentUpon>FormInitSQF.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormInitSQF.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormIntelGen.Designer.vb">
+      <DependentUpon>FormIntelGen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormIntelGen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLightGen.Designer.vb">
+      <DependentUpon>FormLightGen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormLightGen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCalculator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCalculator.Designer.vb">
+      <DependentUpon>FormCalculator.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.vb">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormTaskGen.Designer.vb">
+      <DependentUpon>FormTaskGen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormTaskGen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="helpForm.Designer.vb">
+      <DependentUpon>helpForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="helpForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="music_descript.Designer.vb">
+      <DependentUpon>music_descript.vb</DependentUpon>
+    </Compile>
+    <Compile Include="music_descript.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NoteCreator.Designer.vb">
+      <DependentUpon>NoteCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NoteCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NotificationCreator.Designer.vb">
+      <DependentUpon>NotificationCreator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NotificationCreator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="revive_descript.Designer.vb">
+      <DependentUpon>revive_descript.vb</DependentUpon>
+    </Compile>
+    <Compile Include="revive_descript.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rptFilter.Designer.vb">
+      <DependentUpon>rptFilter.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rptFilter.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RPTHelper.Designer.vb">
+      <DependentUpon>RPTHelper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RPTHelper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScriptSnippets.Designer.vb">
+      <DependentUpon>ScriptSnippets.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptSnippets.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectBestPlaces.Designer.vb">
+      <DependentUpon>selectBestPlaces.vb</DependentUpon>
+    </Compile>
+    <Compile Include="selectBestPlaces.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectDrive.Designer.vb">
+      <DependentUpon>selectDrive.vb</DependentUpon>
+    </Compile>
+    <Compile Include="selectDrive.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sound_descript.Designer.vb">
+      <DependentUpon>sound_descript.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sound_descript.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SQFanalysis.Designer.vb">
+      <DependentUpon>SQFanalysis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SQFanalysis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartScreen.Designer.vb">
+      <DependentUpon>StartScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StartScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AboutAUSMDEditing.resx">
+      <DependentUpon>AboutAUSMDEditing.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="cfgFunctions.resx">
+      <DependentUpon>cfgFunctions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="configBuilder.resx">
+      <DependentUpon>configBuilder.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="debrief_descript.resx">
+      <DependentUpon>debrief_descript.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="defineSubpath.resx">
+      <DependentUpon>defineSubpath.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="defineSubpath2.resx">
+      <DependentUpon>defineSubpath2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="descriptionEXTCreator.resx">
+      <DependentUpon>descriptionEXTCreator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FancyText.resx">
+      <DependentUpon>FancyText.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fileBrowser.resx">
+      <DependentUpon>fileBrowser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fileInfoCreator.resx">
+      <DependentUpon>fileInfoCreator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAddActionCreator.resx">
+      <DependentUpon>FormAddActionCreator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBISMP.resx">
+      <DependentUpon>FormBISMP.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormInitSQF.resx">
+      <DependentUpon>FormInitSQF.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormIntelGen.resx">
+      <DependentUpon>FormIntelGen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormLightGen.resx">
+      <DependentUpon>FormLightGen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCalculator.resx">
+      <DependentUpon>FormCalculator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTaskGen.resx">
+      <DependentUpon>FormTaskGen.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="helpForm.resx">
+      <DependentUpon>helpForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="music_descript.resx">
+      <DependentUpon>music_descript.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NoteCreator.resx">
+      <DependentUpon>NoteCreator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NotificationCreator.resx">
+      <DependentUpon>NotificationCreator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="revive_descript.resx">
+      <DependentUpon>revive_descript.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptFilter.resx">
+      <DependentUpon>rptFilter.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RPTHelper.resx">
+      <DependentUpon>RPTHelper.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ScriptSnippets.resx">
+      <DependentUpon>ScriptSnippets.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectBestPlaces.resx">
+      <DependentUpon>selectBestPlaces.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectDrive.resx">
+      <DependentUpon>selectDrive.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sound_descript.resx">
+      <DependentUpon>sound_descript.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SQFanalysis.resx">
+      <DependentUpon>SQFanalysis.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartScreen.resx">
+      <DependentUpon>StartScreen.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="1421473550_12670.ico" />
+    <Resource Include="1421473590_299111.ico" />
+    <Resource Include="1421473853_171698.ico" />
+    <Resource Include="1421531072_175605.ico" />
+    <Resource Include="1421531230_tool_box.png" />
+    <Resource Include="Calculator-icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="read-me.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <PublishFile Include="read-me.txt">
+      <Visible>False</Visible>
+      <Group>
+      </Group>
+      <TargetPath>
+      </TargetPath>
+      <PublishState>Exclude</PublishState>
+      <IncludeHash>True</IncludeHash>
+      <FileType>File</FileType>
+    </PublishFile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

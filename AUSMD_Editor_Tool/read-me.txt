@@ -1,0 +1,15 @@
+﻿austin_medic's Arma 3 Editing Tool.
+
+This tool requires .NET Framework 4.5 or higher, 
+so it will only work on Operating Systems newer than windows XP.
+
+The tool has various functions that can cut down on repetitive tasks,
+and can help people new to coding to fill out parameters and have the program generate the code for them,
+eliminating possible syntax errors that might otherwise occur.
+
+Some of the forms are more dated than other ones and are more simple,
+which was due to my limited experience with Visual Basic, I hope to
+have most of the forms all looking similar and being consistent across all of them sometime in the future.
+
+
+Report any bugs to the forums topic (http://forums.bistudio.com/showthread.php?187483-RELEASE-AUSMD-Editing-Tool)

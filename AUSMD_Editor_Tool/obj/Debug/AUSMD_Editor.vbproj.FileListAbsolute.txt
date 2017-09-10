@@ -1,0 +1,92 @@
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\AUSMD_Editor.vbproj.GenerateResource.Cache
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.exe.config
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.exe.manifest
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.application
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.exe
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.pdb
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.xml
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.g.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.TrustInfo.xml
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.exe.manifest
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.application
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.exe
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.xml
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.pdb
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.AboutAUSMDEditing.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormAddActionCreator.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormBISMP.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormInitSQF.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormIntelGen.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormLightGen.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormCalculator.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormMain.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FormTaskGen.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.Resources.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.NoteCreator.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.NotificationCreator.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.ScriptSnippets.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.StartScreen.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\read-me.txt
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.helpForm.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.RPTHelper.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.FancyText.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.selectDrive.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.fileInfoCreator.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.SQFanalysis.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.debrief_descript.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.descriptionEXTCreator.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.revive_descript.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.cfgFunctions.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.sound_descript.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.music_descript.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.rptFilter.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.selectBestPlaces.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.defineSubpath.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.defineSubpath2.resources
+C:\Users\austinXmedic\Documents\Visual Studio 2013\Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3scriptgen.configBuilder.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\read-me.txt
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.exe.config
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.exe.manifest
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.application
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.exe
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\bin\Debug\Arma 3 Editing Tool.pdb
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\AUSMD_Editor.vbprojResolveAssemblyReference.cache
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.g.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\AUSMD_Editor.vbproj.GenerateResource.Cache
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.TrustInfo.xml
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.exe.manifest
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.application
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.exe
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\Arma 3 Editing Tool.pdb
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.AboutAUSMDEditing.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.cfgFunctions.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.configBuilder.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.debrief_descript.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.defineSubpath.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.defineSubpath2.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.descriptionEXTCreator.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FancyText.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.fileBrowser.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.fileInfoCreator.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormAddActionCreator.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormBISMP.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormInitSQF.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormIntelGen.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormLightGen.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormCalculator.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormMain.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.FormTaskGen.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.helpForm.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.music_descript.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.Resources.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.NoteCreator.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.NotificationCreator.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.revive_descript.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.rptFilter.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.RPTHelper.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.ScriptSnippets.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.selectBestPlaces.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.selectDrive.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.sound_descript.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.SQFanalysis.resources
+C:\Users\ajag1\Desktop\Visual Studio Projects\AUSMD_Editor_Tool\AUSMD_Editor_Tool\obj\Debug\arma3EditingTool.StartScreen.resources
